@@ -1,9 +1,9 @@
 const links = [
-  { label: "Presentation", href: "#presentation" },
-  { label: "Pieces a fournir", href: "#admission" },
+  { label: "Présentation", href: "#presentation" },
+  { label: "Pièces à fournir", href: "#admission" },
   { label: "Conditions de recrutement", href: "#cycles" },
-  { label: "Approche educative", href: "#pedagogie" },
-  { label: "Plan d'acces", href: "#acces" },
+  { label: "Approche éducative", href: "#pedagogie" },
+  { label: "Plan d'accès", href: "#acces" },
   { label: "Contact", href: "#contact" }
 ];
 

@@ -1,16 +1,16 @@
 const topLinks = [
   { label: "Parents", href: "#pedagogie" },
   { label: "Admissions", href: "#admission" },
-  { label: "Actualites", href: "#vie-scolaire" },
+  { label: "Actualités", href: "#vie-scolaire" },
   { label: "Contact", href: "#contact" }
 ];
 
 const mainLinks = [
   { label: "Accueil", href: "#accueil" },
-  { label: "Presentation", href: "#presentation" },
+  { label: "Présentation", href: "#presentation" },
   { label: "Cycles", href: "#cycles" },
   { label: "Inscription", href: "#admission" },
-  { label: "Acces", href: "#acces" }
+  { label: "Accès", href: "#acces" }
 ];
 
 const Header = () => {
@@ -49,7 +49,7 @@ const Header = () => {
           </nav>
 
           <div className="nav-icons">
-            <a href="#cycles">Premier et Second Cycle</a>
+            <a href="#cycles">Premier et second cycle</a>
           </div>
         </div>
       </div>
