@@ -25,7 +25,7 @@ const Footer = () => {
         <div>
           <h2>NOUS CONTACTER</h2>
           <p>COMPLEXE SCOLAIRE LES GOUTTELETTES</p>
-          <p>Kalaban-Coro / Nerecoro, Rue 308 porte 472</p>
+          <p>Kalaban-Coro / Nerecoro, rue 308, porte 472</p>
           <p>74 67 36 15 / 71 18 36 63</p>
         </div>
 
@@ -34,7 +34,6 @@ const Footer = () => {
           <p>Bureau des inscriptions</p>
           <p>Lundi - Samedi | 8:00 - 17:00</p>
         </div>
-
       </section>
 
       <div className="footer-bottom">
