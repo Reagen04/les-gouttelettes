@@ -1,16 +1,16 @@
 const topLinks = [
   { label: "Parents", href: "#pedagogie" },
   { label: "Admissions", href: "#admission" },
-  { label: "Actualités", href: "#vie-scolaire" },
+  { label: "Actualites", href: "#vie-scolaire" },
   { label: "Contact", href: "#contact" }
 ];
 
 const mainLinks = [
   { label: "Accueil", href: "#accueil" },
-  { label: "Présentation", href: "#presentation" },
+  { label: "Presentation", href: "#presentation" },
   { label: "Cycles", href: "#cycles" },
   { label: "Inscription", href: "#admission" },
-  { label: "Accès", href: "#acces" }
+  { label: "Acces", href: "#acces" }
 ];
 
 const Header = () => {
